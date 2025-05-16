@@ -14,7 +14,7 @@ Model the **probability of default (PD)** of bank clients using real macroeconom
 
 ## Instructions to Run the Project
 
-1. Open the [Google Colab notebook](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing).
+1. Open the [Google Colab notebook](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing)
 2. Upload the file `IMORA.xlsx` to the Colab Session (`Files` > `Upload`).
 3. Run the cells to generate the models and visualize the results
   
