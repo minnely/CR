@@ -10,7 +10,7 @@ Model the **probability of default (PD)** of bank clients using real macroeconom
 
 -  [PDF Report (Pruebas de Estrés - MRV)](./Pruebas_de_Estres_MRV.pdf)
 -  [`IMORA.xlsx`](./IMORA.xlsx) – Database used in the notebook.
--  Google Colab Notebook (Python)](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing)
+-  Google Colab Notebook [Python](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing)
 
 ## Instructions to Run the Project
 
